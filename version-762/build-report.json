@@ -1,0 +1,11 @@
+{
+  "parsed_movie_count": 2000,
+  "detail_page_count": 2000,
+  "html_page_count": 2014,
+  "category_page_count": 10,
+  "category_card_coverage": 2000,
+  "category_detail_link_coverage": 2000,
+  "baidu_script_missing_html": [],
+  "video_source_count_from_original_js": 20,
+  "zip_note": "No JPG files are included; pages reference top-level 1.jpg through 150.jpg by sequence."
+}
